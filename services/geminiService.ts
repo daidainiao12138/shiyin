@@ -5,7 +5,7 @@ import { Poem, KeywordCard, PoetLetter, Language } from "../types";
 const API_CONFIG = {
   apiKey: 'hk-emzmdm100001546880118f3e8611dc35e14abc9adb46e5f7',
   baseURL: 'https://api.openai-hk.com',
-  model: 'gpt-3.5-turbo',
+  model: 'gemini-3-pro-preview',
 };
 
 console.log("Gemini Service (Ported from HTML):", { 
